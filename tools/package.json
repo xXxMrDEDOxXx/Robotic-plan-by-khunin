@@ -1,0 +1,10 @@
+{
+  "name": "robotics-plan-pdf-tools",
+  "private": true,
+  "type": "module",
+  "description": "Build the plan PDF from Markdown with Thai fonts and Mermaid diagrams",
+  "dependencies": {
+    "@fontsource/sarabun": "^5.0.0",
+    "mermaid": "^11.0.0"
+  }
+}
