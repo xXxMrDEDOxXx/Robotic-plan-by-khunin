@@ -10,12 +10,12 @@
 |---|---|---|---|
 | 1 | ส่วนที่ 1 และ 2 | ความเป็นไปได้ของกรอบ 5 ปี และภาพรวมหน้าเดียว | [plan/01-feasibility-and-overview.md](plan/01-feasibility-and-overview.md) |
 | 1 | ภาคผนวกของตอนที่ 1 | เริ่มเรียนที่ไหน และรู้ได้อย่างไรว่าใช้คล่องแล้ว | อยู่ท้ายไฟล์เดียวกัน [plan/01-feasibility-and-overview.md](plan/01-feasibility-and-overview.md) |
-| 2 | ส่วนที่ 3 หมวด ก | ฐานราก: แขนง 1 ถึง 3 | ยังไม่ส่ง |
-| 3 | ส่วนที่ 3 หมวด ข | ซอฟต์แวร์และเครื่องมือ: แขนง 4 ถึง 6 | ยังไม่ส่ง |
-| 4 | ส่วนที่ 3 หมวด ค | ฮาร์ดแวร์: แขนง 7 ถึง 11 | ยังไม่ส่ง |
-| 5 | ส่วนที่ 3 หมวด ง ส่วนแรก | แขนง 12 ถึง 16 | ยังไม่ส่ง |
-| 6 | ส่วนที่ 3 หมวด ง ส่วนหลัง | แขนง 17 ถึง 20 | ยังไม่ส่ง |
-| 7 | ส่วนที่ 3 หมวด จ | แขนง 21 ถึง 23 | ยังไม่ส่ง |
+| 2 | ส่วนที่ 3 หมวด ก | ฐานราก: แขนง 1 ถึง 3 | [plan/02-section3-group-a-foundations.md](plan/02-section3-group-a-foundations.md) |
+| 3 | ส่วนที่ 3 หมวด ข | ซอฟต์แวร์และเครื่องมือ: แขนง 4 ถึง 6 | [plan/03-section3-group-b-software.md](plan/03-section3-group-b-software.md) |
+| 4 | ส่วนที่ 3 หมวด ค | ฮาร์ดแวร์: แขนง 7 ถึง 11 | [plan/04-section3-group-c-hardware.md](plan/04-section3-group-c-hardware.md) |
+| 5 | ส่วนที่ 3 หมวด ง ส่วนแรก | แขนง 12 ถึง 16 | [plan/05-section3-group-d-robotics-ai-part1.md](plan/05-section3-group-d-robotics-ai-part1.md) |
+| 6 | ส่วนที่ 3 หมวด ง ส่วนหลัง | แขนง 17 ถึง 20 | [plan/06-section3-group-d-robotics-ai-part2.md](plan/06-section3-group-d-robotics-ai-part2.md) |
+| 7 | ส่วนที่ 3 หมวด จ | แขนง 21 ถึง 23 | [plan/07-section3-group-e-systems-career.md](plan/07-section3-group-e-systems-career.md) |
 | 8 | ส่วนที่ 4 | แผน 5 ปีแบบแบ่งเฟส | ยังไม่ส่ง |
 | 9 | ส่วนที่ 5 | แบบทดสอบวัดระดับ | ยังไม่ส่ง |
 | 10 | ส่วนที่ 6 | แผน 3 เดือนแรก | ยังไม่ส่ง |
