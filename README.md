@@ -19,5 +19,5 @@
 | 8 | ส่วนที่ 4 | แผน 5 ปีแบบแบ่งเฟส | [plan/08-section4-phased-plan.md](plan/08-section4-phased-plan.md) |
 | 9 | ส่วนที่ 5 | แบบทดสอบวัดระดับ | [plan/09-section5-placement-test.md](plan/09-section5-placement-test.md) |
 | 10 | ส่วนที่ 6 | แผน 3 เดือนแรก | [plan/10-section6-first-3-months.md](plan/10-section6-first-3-months.md) |
-| 11 | ส่วนที่ 7 และ 8 และบทปิด | ความยั่งยืน เกณฑ์ปรับแผน ข้อจำกัด และสิ่งที่ควรศึกษาต่อ | ยังไม่ส่ง |
+| 11 | ส่วนที่ 7 และ 8 และบทปิด | ความยั่งยืน เกณฑ์ปรับแผน ข้อจำกัด และสิ่งที่ควรศึกษาต่อ | [plan/11-section7-8-sustainability-and-adjustment.md](plan/11-section7-8-sustainability-and-adjustment.md) |
 
